@@ -1,7 +1,7 @@
 {
   "name": "automated-testing-app",
   "version": "0.0.1",
-  "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
+  "description": "Complete FCC Project for the Quality Assurance and Testing with Chai Challenges",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
